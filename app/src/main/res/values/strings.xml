@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BP Digital Testapp</string>
+    <integer name="com_vk_sdk_AppId"></integer>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_logout">VK logout</string>
+    <string name="warning_title">Warning!</string>
+    <string name="warning_message">You need make VK login to continue</string>
+    <string name="warning_yes">Proceed</string>
+    <string name="warning_no">Cancel</string>
+    <string name="logout_title">Warning!</string>
+    <string name="logout_message">Do you want to logout?</string>
+    <string name="logout_yes">Sure</string>
+    <string name="logout_no">Cancel</string>
+    <string name="postimages">Post images to VK wall</string>
+    <string name="postingimages">Posting to VK wall</string>
+    <string name="loaderror">Load error</string>
+    <string name="VKpostmessage">From test application</string>
+
+</resources>
